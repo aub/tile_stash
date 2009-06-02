@@ -1,0 +1,12 @@
+= record_filter
+
+== Documentation
+
+== Installation
+
+  gem install aub-tile_stash --source=http://gems.github.com
+
+In Rails, you'll need to add this to your config/environment.rb file:
+
+  config.gem 'aub-tile_stash', :lib => 'tile_stash', :source => 'http://gems.github.com'
+
